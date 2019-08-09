@@ -8,7 +8,9 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "install": "^0.13.0",
-    "nodemon": "^1.19.1"
+    "knex": "^0.19.1",
+    "nodemon": "^1.19.1",
+    "pg": "^7.12.0"
   },
   "devDependencies": {
     "body-parser": "^1.19.0",
